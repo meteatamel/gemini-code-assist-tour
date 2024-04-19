@@ -22,3 +22,4 @@ Follow the following steps:
 * [Generate tests](./docs/generate-tests.md)
 * [Transform code](./docs/transform-code.md)
 * [Deploy code](./docs/deploy-code.md)
+* [Explain log entry](./docs/explain-log-entry.md)

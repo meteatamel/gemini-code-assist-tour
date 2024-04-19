@@ -10,9 +10,9 @@ different prompts but in this case, the easiest way to deploy with with
 **Answer**
 <blockquote>
 gcloud run deploy hello-world \
---source . \
---platform managed \
---allow-unauthenticated
+  --source . \
+  --platform managed \
+  --allow-unauthenticated
 </blockquote>
 
 Gemini provides a crisp command that I can tweak and deploy, nice!
