@@ -6,7 +6,8 @@ application development.
 
 More specifically, you will use Gemini Code Assist in [Cloud
 Code](https://cloud.google.com/code) IDE plugin in Visual Studio Code to design
-and create an application, explain, run, generate, test code, and more.
+and create an application, explain, run, generate, test code, and more. You can
+see the final application in the [app](./app/) folder.
 
 ## Steps
 

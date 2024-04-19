@@ -1,0 +1,48 @@
+<!-- Create an HTML page that displays products from product_service.py using material
+design. It should display each product name, description, and quantity in a card in a grid layout.
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Products</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+  <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+</head>
+<body>
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <header class="mdl-layout__header">
+      <div class="mdl-layout__header-row">
+        <!-- Title -->
+        <span class="mdl-layout-title">Products</span>
+      </div>
+    </header>
+    <main class="mdl-layout__content">
+      <div class="page-content">
+        <div class="mdl-grid">
+          {% for product in products %}
+          <div class="mdl-cell mdl-cell--4-col">
+            <div class="mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title">
+                <h2 class="mdl-card__title-text">{{ product.name }}</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                {{ product.description }}
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a href="/products/{{ product.id }}" class="mdl-button mdl-button--primary mdl-js-button mdl-button--raised">
+                  View
+                </a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
