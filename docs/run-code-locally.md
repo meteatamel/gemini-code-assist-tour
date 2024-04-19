@@ -1,6 +1,6 @@
-# Run application locally
+# Run code locally
 
-It's time to run the application locally. Let's see what kind of help we can get
+It's time to run the code locally. Let's see what kind of help we can get
 from Gemini.
 
 **Prompt**

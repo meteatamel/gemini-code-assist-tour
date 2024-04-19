@@ -1,4 +1,4 @@
-# Create an application
+# Create application
 
 You decided to create a Cloud Run application. Let's see how
 Gemini Code Assist can help.

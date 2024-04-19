@@ -1,4 +1,4 @@
-# Design an application
+# Design application
 
 First, let's use Gemini Code Assist to help us design an application.
 

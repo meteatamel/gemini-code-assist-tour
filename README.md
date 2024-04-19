@@ -13,8 +13,8 @@ and create an application, explain, run, generate, test code, and more.
 Follow the following steps:
 
 * [Setup Gemini Code Assist](./docs/setup.md)
-* [Design an application](./docs/design.md)
-* [Create an application](./docs/create.md)
+* [Design application](./docs/design-app.md)
+* [Create application](./docs/create-app.md)
 * [Explain code](./docs/explain-code.md)
-* [Run application locally](./docs/run-locally.md)
+* [Run code locally](./docs/run-code-locally.md)
 * [Generate code](./docs/generate-code.md)
