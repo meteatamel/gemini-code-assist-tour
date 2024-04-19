@@ -17,3 +17,4 @@ Follow the following steps:
 * [Create an application](./docs/create.md)
 * [Explain code](./docs/explain-code.md)
 * [Run application locally](./docs/run-locally.md)
+* [Generate code](./docs/generate-code.md)
