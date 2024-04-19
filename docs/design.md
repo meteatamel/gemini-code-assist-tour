@@ -76,6 +76,3 @@ Analogy:
 
 Think of Cloud Functions as small, specialized tools that you can use to automate specific tasks. Cloud Run, on the other hand, is like a more versatile platform where you can deploy and run complete applications.
 </blockquote>
-
-At this point, you might decide to create a Cloud Run application. Let's see how
-to do that in the [Create an application](./create.md) step.

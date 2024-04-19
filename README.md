@@ -15,3 +15,4 @@ Follow the following steps:
 * [Setup Gemini Code Assist](./docs/setup.md)
 * [Design an application](./docs/design.md)
 * [Create an application](./docs/create.md)
+* [Explain code](./docs/explain-code.md)
