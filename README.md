@@ -12,4 +12,6 @@ and create an application, explain, run, generate, test code, and more.
 
 Follow the following steps:
 
-* [Setup Gemini Code Assist](./docs/setup.md)]
+* [Setup Gemini Code Assist](./docs/setup.md)
+* [Design an application](./docs/design.md)
+* [Create an application](./docs/create.md)
