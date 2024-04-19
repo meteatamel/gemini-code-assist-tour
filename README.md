@@ -20,4 +20,5 @@ Follow the following steps:
 * [Run code locally](./docs/run-code-locally.md)
 * [Generate code](./docs/generate-code.md)
 * [Generate tests](./docs/generate-tests.md)
+* [Transform code](./docs/transform-code.md))
 * [Deploy code](./docs/deploy-code.md)
