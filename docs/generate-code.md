@@ -3,7 +3,6 @@
 It's time to see if Gemini can help us to add new functionality by generating
 code.
 
-
 ## Create a new service
 
 Create a `product_service.py` file and a new `ProductService` class:

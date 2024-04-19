@@ -18,3 +18,4 @@ Follow the following steps:
 * [Explain code](./docs/explain-code.md)
 * [Run code locally](./docs/run-code-locally.md)
 * [Generate code](./docs/generate-code.md)
+* [Generate tests](./docs/generate-tests.md)
