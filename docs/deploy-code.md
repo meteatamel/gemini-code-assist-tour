@@ -16,3 +16,7 @@ gcloud run deploy hello-world \
 </blockquote>
 
 Gemini provides a crisp command that I can tweak and deploy, nice!
+
+After deploying, you can see the products page running in Cloud Run:
+
+![Products template on Cloud Run](images/products_template_cloudrun.png)
