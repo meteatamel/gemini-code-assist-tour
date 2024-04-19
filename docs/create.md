@@ -25,4 +25,3 @@ Follow the instructions to create a Python application:
 
 1. Click on the project name in the status bar.
 1. Select `New Application` -> `Cloud Run application` -> `Python (Flask) Cloud Run`
-

@@ -16,3 +16,4 @@ Follow the following steps:
 * [Design an application](./docs/design.md)
 * [Create an application](./docs/create.md)
 * [Explain code](./docs/explain-code.md)
+* [Run application locally](./docs/run-locally.md)
