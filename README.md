@@ -9,6 +9,16 @@ Code](https://cloud.google.com/code) IDE plugin in Visual Studio Code to design
 and create an application, explain, run, generate, test code, and more. You can
 see the final application in the [app](./app/) folder.
 
+## Slides
+
+There's a
+[presentation](https://speakerdeck.com/meteatamel/improve-your-development-workflow-with-gemini-code-assist)
+that accompanies this repository.
+
+<a href="https://speakerdeck.com/meteatamel/improve-your-development-workflow-with-gemini-code-assist">
+    <img alt="Presentation" src="docs/images/presentation.png" width="50%" height="50%">
+</a>
+
 ## Steps
 
 Follow the following steps:
