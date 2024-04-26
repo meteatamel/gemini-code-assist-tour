@@ -4,7 +4,7 @@ You decided to create a Cloud Run application. Let's see how
 Gemini Code Assist can help.
 
 **Prompt**
-> I'm in Cloud Code. How can I create a Cloud Run application?
+> I'm in Visual Studio Code. How can I create a Cloud Run application using the Cloud Code template?
 
 **Answer**
 <blockquote>
