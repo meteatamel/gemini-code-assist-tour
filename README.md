@@ -9,6 +9,10 @@ Code](https://cloud.google.com/code) IDE plugin in Visual Studio Code to design
 and create an application, explain, run, generate, test code, and more. You can
 see the final application in the [app](./app/) folder.
 
+> [!NOTE]
+> The intake form for the newly announced **Full codebase awareness** and **Code
+> Customization** features is here: [bit.ly/gemini-codeassist](https://bit.ly/gemini-codeassist)
+
 ## Slides
 
 There's a
