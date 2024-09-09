@@ -7,7 +7,7 @@ Create a `product_service_test.py` file and add the following comment for
 Gemini:
 
 ```python
-# Create unit tests for product_service.py
+# Unit tests for product_service.py
 ```
 
 Gemini should fill the rest:

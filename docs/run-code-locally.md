@@ -32,9 +32,15 @@ update in the browsers. Can we have hot-reloading?
 **Answer**
 <blockquote>
 
-Yes, there is a command line flag for Flask hot reload. It is `--reload`. You can use this flag to enable hot reloading when running your Flask application.
+While there isn't a dedicated command-line flag specifically named "hot reload"
+in Flask, you can achieve the desired behavior using the `--debug` flag or by
+setting the `FLASK_ENV` environment variable to development
+
+1. Using the --debug flag:
+
+`flask run --debug`
 </blockquote>
 
-Now, you can try running the app with `flask run --reload` and when you change
+Now, you can try running the app with `flask run --debug` and when you change
 the `message = "It's running!"` in `app.py` to `message = "It's running on Cloud
 Run!"`, it should automatically updated in the browser.
