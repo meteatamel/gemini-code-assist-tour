@@ -37,3 +37,4 @@ Follow the following steps:
 * [Transform code](./docs/transform-code.md)
 * [Deploy code](./docs/deploy-code.md)
 * [Explain log entry](./docs/explain-log-entry.md)
+* [Code customization](./docs/code-customization.md)
