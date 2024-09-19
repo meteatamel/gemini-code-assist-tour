@@ -133,3 +133,19 @@ gcloud gemini code-repository-indexes repository-groups create gemini-code-assis
     --code-repository-index=gemini-code-assist-tour-index \
     --repositories='[{"resource": "https://developerconnect.googleapis.com/v1/projects/atamel-code-assist/locations/us-central1/connections/code-assist-tour-connection/gitRepositoryLinks/meteatamel-gemini-code-assist-tour-private", "branchPattern": "main"}]'
 ```
+
+After this, you have to wait for a day or so for indexing to kick-in. 
+
+## With code customization
+
+After a day or so, let's go back to [app.py](../app/app.py) and try to add a
+discovery handler. Notice how you're now getting suggestions in line with your
+code conventions in your private GitHub repo:
+
+![Discovery handler](./images/discovery-handler2.png)
+
+Let's try adding liveliness handler as well with a comment:
+
+![Liveliness handler](./images/liveliness-handler.png)
+
+Notice how we got both liveliness and readiness handlers as code suggestions. Nice!
