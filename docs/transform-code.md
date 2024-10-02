@@ -8,8 +8,6 @@ Quick Pick bar. Select `/fix` and type `/fix add detailed comments to all method
 
 ![Transform code](images/transform_code.png)
 
-In the text, enter `Add detailed comments for the class and methods`.
-
 This should open up a diff window where you can see the transformed code and
 accept or decline it:
 
