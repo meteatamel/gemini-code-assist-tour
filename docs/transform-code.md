@@ -1,11 +1,10 @@
 # Transform code
 
-Gemini Code Assist has a new feature (in preview and only available on Cloud
-Shell Editor for now) to transform code. Let's see if we can use it to add
-comments to a class.
+Gemini Code Assist has a new feature to transform code and provide you with a
+diff view to show pending changes to your code.
 
-In Cloud Shell Editor, open `product_service.py`, select all the code, and
-choose the transform code option:
+Open `product_service.py`, and press `Control+I` or `Command+I` to open the
+Quick Pick bar. Select `/fix` and type `/fix add detailed comments to all methods`
 
 ![Transform code](images/transform_code.png)
 
